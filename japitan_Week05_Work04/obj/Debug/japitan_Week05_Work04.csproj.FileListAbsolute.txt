@@ -1,0 +1,10 @@
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\obj\Debug\japitan_Week05_Work04.csproj.AssemblyReference.cache
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\obj\Debug\japitan_Week05_Work04.Form1.resources
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\obj\Debug\japitan_Week05_Work04.Properties.Resources.resources
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\obj\Debug\japitan_Week05_Work04.csproj.GenerateResource.cache
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\obj\Debug\japitan_Week05_Work04.csproj.CoreCompileInputs.cache
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\bin\Debug\japitan_Week05_Work04.exe.config
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\bin\Debug\japitan_Week05_Work04.exe
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\bin\Debug\japitan_Week05_Work04.pdb
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\obj\Debug\japitan_Week05_Work04.exe
+C:\Users\Crisel Mae Japitan\source\repos\japitan_Week05_Work04\japitan_Week05_Work04\obj\Debug\japitan_Week05_Work04.pdb
